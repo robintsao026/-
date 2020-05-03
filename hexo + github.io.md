@@ -3,7 +3,7 @@
 #### 1.事前安裝
 
 Node.js
-Notepad++
+Notepad++ 
 
 ----
 
